@@ -1,3 +1,10 @@
+@media (max-width: 767px) {
+  .div.div.ui row {
+    position: relative;
+    display: initial;
+    flex-wrap: nowrap;
+  }
+}
 .field {
   padding: 5px 0;
 }
