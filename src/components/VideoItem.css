@@ -1,8 +1,7 @@
 @media (max-width: 767px) {
-  .div.div.ui row {
-    position: relative;
-    display: initial;
-    flex-wrap: nowrap;
+  .ui.grid {
+    display: flex;
+    justify-content: center;
   }
 }
 .field {
